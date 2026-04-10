@@ -1,12 +1,53 @@
-- 👋 Hi, I’m @indupriya-g
-- 👀 I’m interested in CyberSecurity and related stuffs...
-- 🌱 I’m currently learning BCA...
-- 💞️ I’m looking to collaborate on innovative project ideas...
-- 📫 How to reach me through mail-indupriya.g0908@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Indupriya  
 
-<!---
-indupriya-g/indupriya-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BCA Student | 💻 Front-End Developer | 🔐 Cybersecurity Enthusiast  
+
+---
+
+## 🚀 About Me  
+💡 Passionate about building **secure and visually engaging web experiences**  
+🌱 Currently learning **Web Development & Cybersecurity**  
+🛡 Interested in **Threat Analysis & Phishing Detection**  
+🤝 Open to **Internships & Collaboration Opportunities**  
+
+---
+
+## 🛠 Tech Stack  
+
+### 💻 Languages  
+HTML • CSS • JavaScript • C • C++ • Python • Java  
+
+### 🎨 Design  
+Figma (UI/UX Design)  
+
+### 🛡 Security  
+Cybersecurity Basics • Phishing Detection  
+
+---
+
+## 📌 Projects  
+
+🔐 **URL Phishing Detector**  
+→ Detects malicious URLs using rule-based analysis  
+
+🎮 **CyberStrike: Hunt the Hacker**  
+→ Interactive cybersecurity awareness game  
+
+🧵 **Tailor Management System**  
+→ Web-based system for managing orders & customers  
+
+---
+
+## 📊 GitHub Stats  
+
+![Indupriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=indupriya-g&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me  
+
+📧 mail-indupriya.g0908@gmail.com  
+
+---
+
+⭐ *"Building secure and creative digital experiences"*  
