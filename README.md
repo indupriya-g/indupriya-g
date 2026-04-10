@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Indupriya  
 
-🎓 BCA Student | 💻 Front-End Developer | 🔐 Cybersecurity Enthusiast  
+🎓 MCA Student | 💻 Front-End Developer | 🔐 Cybersecurity Enthusiast  
 
 ---
 
